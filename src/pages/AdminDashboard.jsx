@@ -9,6 +9,7 @@ function AdminDashboard() {
     <div>
       <h2>Admin Dashboard</h2>
       <button onClick={startQuiz}>Start Quiz</button>
+      <p>kjvnsdfkj</p>
     </div>
   );
 }
